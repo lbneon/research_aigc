@@ -70,6 +70,6 @@ ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
 - git地址：<https://github.com/microsoft/JARVIS>
 - 论文地址：<https://arxiv.org/pdf/2303.17580.pdf>
 
-### 2、BloombergGPT（白泽）
+### 2、BloombergGPT
 彭博社重磅发布为金融界打造的大型语言模型（LLM）——BloombergGPT
 - 相关报道：<https://www.qbitai.com/2023/04/43433.html>
