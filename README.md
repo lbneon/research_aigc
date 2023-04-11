@@ -67,8 +67,10 @@ Meta 开放和高效的基础语言模型
 ### 1、HuggingGPT
 ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
 - 相关报道：<https://mp.weixin.qq.com/s/iVlc_MKSB7LFtGT-9K2hcA>
+-         <https://mp.weixin.qq.com/s/KBIqQ_WNqA3Hc5AHtrvFlA>
 - git地址：<https://github.com/microsoft/JARVIS>
 - 论文地址：<https://arxiv.org/pdf/2303.17580.pdf>
+- 在线演示：<https://huggingface.co/spaces/microsoft/HuggingGPT>
 
 ### 2、BloombergGPT
 彭博社重磅发布为金融界打造的大型语言模型（LLM）——BloombergGPT
