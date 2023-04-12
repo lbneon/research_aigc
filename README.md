@@ -62,6 +62,11 @@ Meta 开放和高效的基础语言模型
 - git地址：<https://github.com/project-baize/baize-chatbot>
 - 在线演示：<https://huggingface.co/spaces/project-baize/baize-lora-7B>
 
+### 10、DeepSpeed对话
+易于使用、快速而实惠的RLHF训练，在各种规模下训练ChatGPT模型
+- 相关报道：<https://hub.baai.ac.cn/view/25414>
+- git地址：<https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat>
+
 
 ## 其它资源
 ### 1、HuggingGPT
