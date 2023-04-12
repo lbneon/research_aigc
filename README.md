@@ -82,6 +82,11 @@ ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
 彭博社重磅发布为金融界打造的大型语言模型（LLM）——BloombergGPT
 - 相关报道：<https://www.qbitai.com/2023/04/43433.html>
 
-### DriveGPT
+### 3、DriveGPT
 DriveGPT自动驾驶大模型中国玩家首发！1200亿参数，毫末智行出品
 - 相关报道：<https://mp.weixin.qq.com/s/qcm97NZ6l7cuFbyo4TeA9w>
+
+### 4、Generative Agents
+西部世界“狂暴的欢愉”来临？这些生成的AI 角色会自发计划行动，发生关系并记住彼此｜CyberDaily
+- 相关报道：<https://view.inews.qq.com/k/20230410A09Y9E00>
+- 相关论文：<https://arxiv.org/pdf/2304.03442.pdf>
