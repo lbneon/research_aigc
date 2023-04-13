@@ -67,6 +67,11 @@ Meta 开放和高效的基础语言模型
 - 相关报道：<https://hub.baai.ac.cn/view/25414>
 - git地址：<https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat>
 
+### 11、DeepSpeed Chat
+微软DeepSpeed Chat震撼发布，一键RLHF训练千亿级大模型
+- 相关报道：<https://www.toutiao.com/article/7221074184028373541/?app=news_article_lite>
+- git地址：<https://github.com/microsoft/DeepSpeed>
+
 
 ## 其它资源
 ### 1、HuggingGPT
@@ -90,3 +95,14 @@ DriveGPT自动驾驶大模型中国玩家首发！1200亿参数，毫末智行�
 西部世界“狂暴的欢愉”来临？这些生成的AI 角色会自发计划行动，发生关系并记住彼此｜CyberDaily
 - 相关报道：<https://view.inews.qq.com/k/20230410A09Y9E00>
 - 相关论文：<https://arxiv.org/pdf/2304.03442.pdf>
+
+### 5、AutoGPT
+AutoGPT太火了，无需人类插手自主完成任务，GitHub2.7万星
+- 相关报道：<https://mp.weixin.qq.com/s/bV1tPc7hNn2z06YOpzyanw>
+- git地址：<https://github.com/torantulino/auto-gpt>
+
+### 5、AgentGPT
+AgentGPT：浏览器中直接部署自主 AI 智能体
+- 相关报道：<https://mp.weixin.qq.com/s/bV1tPc7hNn2z06YOpzyanw>
+- 项目地址：<https://agentgpt.reworkd.ai/>
+- git地址：<https://github.com/reworkd/AgentGPT>
