@@ -72,6 +72,9 @@ Meta 开放和高效的基础语言模型
 - 相关报道：<https://www.toutiao.com/article/7221074184028373541/?app=news_article_lite>
 - git地址：<https://github.com/microsoft/DeepSpeed>
 
+### 12、LLMZoo
+democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水平可以达到96%的chatgpt
+- git地址：<https://github.com/FreedomIntelligence/LLMZoo>
 
 ## 其它资源
 ### 1、HuggingGPT
