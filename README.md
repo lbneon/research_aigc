@@ -76,6 +76,16 @@ Meta 开放和高效的基础语言模型
 democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水平可以达到96%的chatgpt
 - git地址：<https://github.com/FreedomIntelligence/LLMZoo>
 
+### 13、OpenAssistant
+首个1万多人共同标注的35种语言的高质量对话数据集来啦
+- 相关报道：
+    - <https://www.jiqizhixin.com/articles/2023-04-16>
+    - <https://mp.weixin.qq.com/s/WMqJqtjG36ko7m-B4Gv4_A>
+- 论文地址：<https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view>
+- 项目地址：<https://github.com/LAION-AI/Open-Assistant>
+- 数据集地址：<https://huggingface.co/datasets/OpenAssistant/oasst1>
+- 体验地址：<https://open-assistant.io/chat>
+
 ## 其它资源
 ### 1、HuggingGPT
 ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
