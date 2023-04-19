@@ -85,6 +85,12 @@ democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水�
 - 项目地址：<https://github.com/LAION-AI/Open-Assistant>
 - 数据集地址：<https://huggingface.co/datasets/OpenAssistant/oasst1>
 - 体验地址：<https://open-assistant.io/chat>
+- 尝试教程：<https://zhuanlan.zhihu.com/p/609003237>
+
+### 14、deepspeed chat
+微软DeepSpeed Chat，人人可快速训练百亿、千亿级ChatGPT大模型
+- 相关报道：<https://www.sohu.com/a/666378296_129720>
+- git地址：<https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat>
 
 ## 其它资源
 ### 1、HuggingGPT
