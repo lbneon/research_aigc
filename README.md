@@ -17,6 +17,7 @@
 Meta 开放和高效的基础语言模型
 - 官方报道：<https://zhuanlan.zhihu.com/p/609843048>
 - 官方代码：<https://github.com/facebookresearch/llama>
+- 中文版代码：<https://github.com/ymcui/Chinese-LLaMA-Alpaca>
 
 
 ### 3、Alpaca（羊驼）
