@@ -93,6 +93,12 @@ democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水�
 - 相关报道：<https://www.sohu.com/a/666378296_129720>
 - git地址：<https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat>
 
+### 15、MOSS
+复旦MOSS升级版开源上线，能搜索信息、生成图像，还能解数学应用题
+- 相关报道：<https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=604936>
+- git地址：<https://github.com/OpenLMLab/MOSS>
+- 演示地址：<https://huggingface.co/fnlp>
+
 ## 其它资源
 ### 1、HuggingGPT
 ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
