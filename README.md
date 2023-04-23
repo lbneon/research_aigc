@@ -99,6 +99,11 @@ democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水�
 - git地址：<https://github.com/OpenLMLab/MOSS>
 - 演示地址：<https://huggingface.co/fnlp>
 
+### 16、中国法律 AI 助手
+把数据喂给 ChatGPT，做了一个[中国法律 AI 助手]
+- 相关报道：<https://www.appinn.com/law-cn-ai/>
+- git地址：<https://github.com/lvwzhen/law-cn-ai>
+
 ## 其它资源
 ### 1、HuggingGPT
 ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
@@ -127,8 +132,12 @@ AutoGPT太火了，无需人类插手自主完成任务，GitHub2.7万星
 - 相关报道：<https://mp.weixin.qq.com/s/bV1tPc7hNn2z06YOpzyanw>
 - git地址：<https://github.com/torantulino/auto-gpt>
 
-### 5、AgentGPT
+### 6、AgentGPT
 AgentGPT：浏览器中直接部署自主 AI 智能体
 - 相关报道：<https://mp.weixin.qq.com/s/bV1tPc7hNn2z06YOpzyanw>
 - 项目地址：<https://agentgpt.reworkd.ai/>
 - git地址：<https://github.com/reworkd/AgentGPT>
+
+### 7、Claude
+类ChatGPT
+-官方地址：<https://www.anthropic.com/index/introducing-claude>
