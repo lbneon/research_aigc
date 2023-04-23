@@ -104,6 +104,13 @@ democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水�
 - 相关报道：<https://www.appinn.com/law-cn-ai/>
 - git地址：<https://github.com/lvwzhen/law-cn-ai>
 
+### 17、MiniGPT-4
+3天近一万Star，无差体验GPT-4，MiniGPT-4看图聊天、草图建网站
+- 相关报道：<https://www.toutiao.com/article/7224333914054820352>
+- 主页地址：<https://minigpt-4.github.io/>
+- git地址：<https://github.com/Vision-CAIR/MiniGPT-4>
+- 论文地址：<https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf>
+
 ## 其它资源
 ### 1、HuggingGPT
 ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
