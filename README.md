@@ -111,6 +111,11 @@ democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水�
 - git地址：<https://github.com/Vision-CAIR/MiniGPT-4>
 - 论文地址：<https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf>
 
+### 18、Alpaca-CoT
+特制自己的ChatGPT: 多接口统一的轻量级LLM-IFT平台 (Alpaca-CoT)
+- git地址：<https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md>
+
+
 ## 其它资源
 ### 1、HuggingGPT
 ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
