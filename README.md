@@ -153,3 +153,10 @@ AgentGPT：浏览器中直接部署自主 AI 智能体
 ### 7、Claude
 类ChatGPT
 -官方地址：<https://www.anthropic.com/index/introducing-claude>
+
+
+
+## 视频资源
+### 7、SegGPT
+SegGPT: Segmenting Everything In Context
+-官方地址：<https://github.com/baaivision/Painter>
