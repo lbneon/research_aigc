@@ -157,6 +157,6 @@ AgentGPT：浏览器中直接部署自主 AI 智能体
 
 
 ## 视频资源
-### 7、SegGPT
+### 1、SegGPT
 SegGPT: Segmenting Everything In Context
 -官方地址：<https://github.com/baaivision/Painter>
