@@ -115,6 +115,10 @@ democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水�
 特制自己的ChatGPT: 多接口统一的轻量级LLM-IFT平台 (Alpaca-CoT)
 - git地址：<https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md>
 
+### 19、HuggingChat
+HuggingChat可以完成一些复杂的生成任务，包括编写代码、起草电子邮件、创作歌词等等。
+- 相关报道：<https://www.toutiao.com/article/7226506350405141049>
+- 试用地址：<https://huggingface.co/chat/>
 
 ## 其它资源
 ### 1、HuggingGPT
