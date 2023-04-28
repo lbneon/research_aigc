@@ -120,6 +120,14 @@ HuggingChat可以完成一些复杂的生成任务，包括编写代码、起草
 - 相关报道：<https://www.toutiao.com/article/7226506350405141049>
 - 试用地址：<https://huggingface.co/chat/>
 
+### 20、HuggingChat
+Meta AI 开源1750亿参数大模型- OPT，FlagAI一键调用
+- 相关报道：<https://zhuanlan.zhihu.com/p/533381273>
+FlagAI仓库地址：<https://github.com/BAAI-Open/FlagAI>
+OPT模型论文地址： <https://arxiv.org/pdf/2205.01068.pdf>
+OPT仓库地址： <https://github.com/facebookresearch/metaseq>
+175B模型申请访问权限地址: <https://forms.gle/dag8g7nKiR4o4>
+
 ## 其它资源
 ### 1、HuggingGPT
 ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
