@@ -164,17 +164,17 @@ AgentGPT：浏览器中直接部署自主 AI 智能体
 
 ### 7、Claude
 类ChatGPT
--官方地址：<https://www.anthropic.com/index/introducing-claude>
+- 官方地址：<https://www.anthropic.com/index/introducing-claude>
 
 
 
 ## 视觉资源
 ### 1、SegGPT
 SegGPT: Segmenting Everything In Context
--官方地址：<https://github.com/baaivision/Painter>
+- 官方地址：<https://github.com/baaivision/Painter>
 
 ### 2、Stability AI、DeepFloyd IF
 Stability AI连扔两个王炸！首个开源RLHF模型登基，DeepFloyd IF像素级出图。
-Stability AI重磅发布了世上首个基于RLHF的开源LLM聊天机器人——StableVicuna
-开源图像生成模型——DeepFloyd IF
+- Stability AI重磅发布了世上首个基于RLHF的开源LLM聊天机器人——StableVicuna
+- 开源图像生成模型——DeepFloyd IF
 -相关报道：<https://mp.weixin.qq.com/s/h39ZjVg_9XA8jl3fIIAEfg>
