@@ -177,4 +177,4 @@ SegGPT: Segmenting Everything In Context
 Stability AI连扔两个王炸！首个开源RLHF模型登基，DeepFloyd IF像素级出图。
 - Stability AI重磅发布了世上首个基于RLHF的开源LLM聊天机器人——StableVicuna
 - 开源图像生成模型——DeepFloyd IF
--相关报道：<https://mp.weixin.qq.com/s/h39ZjVg_9XA8jl3fIIAEfg>
+- 相关报道：<https://mp.weixin.qq.com/s/h39ZjVg_9XA8jl3fIIAEfg>
