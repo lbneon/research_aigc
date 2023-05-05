@@ -3,7 +3,7 @@
 ## ChatGPT使用
 - ChatGPT 指令大全：<https://www.explainthis.io/zh-hans/chatgpt>
 - EasyCode AI – 集成在 VS Code 里的 ChatGPT，帮你写代码、改代码 <https://www.appinn.com/easycode-ai-in-vscode/>
-
+- Safety-Prompts - 清华发布首个最全大模型安全评测系统，ChatGPT登榜首 <https://mp.weixin.qq.com/s/8JtSl_tV4caZUyh1_Z6hdA>
 
 ## 文本资源平替
 
