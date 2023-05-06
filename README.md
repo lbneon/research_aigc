@@ -166,7 +166,9 @@ AgentGPT：浏览器中直接部署自主 AI 智能体
 类ChatGPT
 - 官方地址：<https://www.anthropic.com/index/introducing-claude>
 
-
+### 8、mlc-ai
+手机原生跑大模型，算力不是问题了
+- 官方地址：<https://github.com/mlc-ai/web-llm/tree/main>
 
 ## 视觉资源
 ### 1、SegGPT
