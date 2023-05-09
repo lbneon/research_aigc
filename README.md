@@ -170,6 +170,10 @@ AgentGPT：浏览器中直接部署自主 AI 智能体
 手机原生跑大模型，算力不是问题了
 - 官方地址：<https://github.com/mlc-ai/web-llm/tree/main>
 
+### 9、PandaLM
+可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了
+- 官方地址：<https://www.jiqizhixin.com/articles/2023-05-08-3>
+
 ## 视觉资源
 ### 1、SegGPT
 SegGPT: Segmenting Everything In Context
