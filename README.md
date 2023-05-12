@@ -178,6 +178,11 @@ AgentGPT：浏览器中直接部署自主 AI 智能体
 特制自己的ChatGPT: 多接口统一的轻量级LLM-IFT平台 (Alpaca-CoT)
 - git地址：<https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md>
 
+### 11、SuperCLUE
+中文通用大模型综合性评测基准
+- 相关报道：<https://blog.csdn.net/xixiaoyaoww/article/details/130635447>
+- git地址：<https://github.com/CLUEbenchmark/SuperCLUE>
+
 ## 视觉资源
 ### 1、SegGPT
 SegGPT: Segmenting Everything In Context
