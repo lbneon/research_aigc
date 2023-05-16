@@ -131,7 +131,7 @@ Meta AI 开源1750亿参数大模型- OPT，FlagAI一键调用
 ### 21、LLaVA
 熔岩羊驼LLaVA来了：像GPT-4一样可以看图聊天，无需邀请码，在线可玩
 - 相关报道：<https://finance.sina.com.cn/tech/roll/2023-04-23/doc-imyrkmwi3850773.shtml>
-- git地址：<https://github.com/Vision-CAIR/MiniGPT-4>
+
 
 ## 其它资源
 ### 1、HuggingGPT
