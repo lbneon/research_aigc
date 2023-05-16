@@ -128,6 +128,11 @@ Meta AI 开源1750亿参数大模型- OPT，FlagAI一键调用
 - OPT仓库地址： <https://github.com/facebookresearch/metaseq>
 - 175B模型申请访问权限地址: <https://forms.gle/dag8g7nKiR4o4>
 
+### 21、LLaVA
+熔岩羊驼LLaVA来了：像GPT-4一样可以看图聊天，无需邀请码，在线可玩
+- 相关报道：<https://finance.sina.com.cn/tech/roll/2023-04-23/doc-imyrkmwi3850773.shtml>
+- git地址：<https://github.com/Vision-CAIR/MiniGPT-4>
+
 ## 其它资源
 ### 1、HuggingGPT
 ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文
