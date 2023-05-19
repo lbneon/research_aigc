@@ -112,16 +112,23 @@ democratizing ChatGPT，号称中文效果可以媲美文心一言，英文水�
 - git地址：<https://github.com/Vision-CAIR/MiniGPT-4>
 - 论文地址：<https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf>
 
-### 18、Alpaca-CoT
+### 18、VPGTrans
+训练开销骤减，10%成本定制专属类GPT-4多模态大模型
+- 相关报道：<https://www.jiqizhixin.com/articles/2023-05-19-11>
+- Demo地址：<https://vpgtrans.github.io/>
+- git地址：<https://github.com/VPGTrans/VPGTrans>
+- 论文地址：<https://arxiv.org/pdf/2305.01278.pdf>
+
+### 19、Alpaca-CoT
 特制自己的ChatGPT: 多接口统一的轻量级LLM-IFT平台 (Alpaca-CoT)
 - git地址：<https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md>
 
-### 19、HuggingChat
+### 20、HuggingChat
 HuggingChat可以完成一些复杂的生成任务，包括编写代码、起草电子邮件、创作歌词等等。
 - 相关报道：<https://www.toutiao.com/article/7226506350405141049>
 - 试用地址：<https://huggingface.co/chat/>
 
-### 20、HuggingChat
+### 21、HuggingChat
 Meta AI 开源1750亿参数大模型- OPT，FlagAI一键调用
 - 相关报道：<https://zhuanlan.zhihu.com/p/533381273>
 - FlagAI仓库地址：<https://github.com/BAAI-Open/FlagAI>
@@ -129,10 +136,15 @@ Meta AI 开源1750亿参数大模型- OPT，FlagAI一键调用
 - OPT仓库地址： <https://github.com/facebookresearch/metaseq>
 - 175B模型申请访问权限地址: <https://forms.gle/dag8g7nKiR4o4>
 
-### 21、LLaVA
+### 22、LLaVA
 熔岩羊驼LLaVA来了：像GPT-4一样可以看图聊天，无需邀请码，在线可玩
 - 相关报道：<https://finance.sina.com.cn/tech/roll/2023-04-23/doc-imyrkmwi3850773.shtml>
 - 演示地址：<https://llava.hliu.cc/>
+
+### 23、PKU-Beaver
+国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver
+- 相关报道：<https://www.jiqizhixin.com/articles/2023-05-19-4>
+- 演示地址：<https://github.com/PKU-Alignment/safe-rlhf>
 
 
 ## 其它资源
@@ -200,3 +212,7 @@ Stability AI连扔两个王炸！首个开源RLHF模型登基，DeepFloyd IF像�
 - Stability AI重磅发布了世上首个基于RLHF的开源LLM聊天机器人——StableVicuna
 - 开源图像生成模型——DeepFloyd IF
 - 相关报道：<https://mp.weixin.qq.com/s/h39ZjVg_9XA8jl3fIIAEfg>
+
+### 3、Stability AI、DeepFloyd IF
+Stable Diffusion动画版上线！十五种风格预设，支持文本、图像、视频多种输入方式
+- 相关报道：<https://www.qbitai.com/2023/05/54500.html>
