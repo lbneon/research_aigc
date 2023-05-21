@@ -144,8 +144,14 @@ Meta AI 开源1750亿参数大模型- OPT，FlagAI一键调用
 ### 23、PKU-Beaver
 国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver
 - 相关报道：<https://www.jiqizhixin.com/articles/2023-05-19-4>
+- git地址：<https://github.com/sunner/ChatALL>
+- git地址：<https://chathub.gg/>
+
+### 24、ChatALL
+前哈工大教授开发的ChatALL火了！可同时提问17个聊天模型
+- 相关报道：<https://www.qbitai.com/2023/05/54590.html>
 - git地址：<https://github.com/PKU-Alignment/safe-rlhf>
-- git地址：<https://github.com/PKU-Alignment/omnisafe>
+- 官方地址：<https://github.com/PKU-Alignment/omnisafe>
 
 ## 其它资源
 ### 1、HuggingGPT
