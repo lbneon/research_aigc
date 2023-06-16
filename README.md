@@ -147,7 +147,13 @@ Meta AI 开源1750亿参数大模型- OPT，FlagAI一键调用
 - git地址：<https://github.com/sunner/ChatALL>
 - git地址：<https://chathub.gg/>
 
-### 24、ChatALL
+### 24、baichuan
+王小川大模型首次公开亮相，采用开源模式，可免费商用
+- 相关报道：<https://mp.weixin.qq.com/s/xaMXFZMx99zfdaIw5VmB-A>
+- git地址：<https://github.com/baichuan-inc/baichuan-7B>
+- 模型地址：<https://huggingface.co/baichuan-inc/baichuan-7B>
+
+### 25、ChatALL
 前哈工大教授开发的ChatALL火了！可同时提问17个聊天模型
 - 相关报道：<https://www.qbitai.com/2023/05/54590.html>
 - git地址：<https://github.com/PKU-Alignment/safe-rlhf>
